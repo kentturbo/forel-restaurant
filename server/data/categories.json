@@ -1,0 +1,58 @@
+[
+  {
+    "id": "appetizers",
+    "name_ru": "Закуски",
+    "name_en": "Appetizers",
+    "icon": "🥗",
+    "order": 0,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "salads",
+    "name_ru": "Салаты",
+    "name_en": "Salads",
+    "icon": "🥙",
+    "order": 1,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "soups",
+    "name_ru": "Супы",
+    "name_en": "Soups",
+    "icon": "🍲",
+    "order": 2,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "main",
+    "name_ru": "Основные блюда",
+    "name_en": "Main Courses",
+    "icon": "🍽️",
+    "order": 3,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "fish",
+    "name_ru": "Рыбные блюда",
+    "name_en": "Fish Dishes",
+    "icon": "🐟",
+    "order": 4,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "desserts",
+    "name_ru": "Десерты",
+    "name_en": "Desserts",
+    "icon": "🍰",
+    "order": 5,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "drinks",
+    "name_ru": "Напитки",
+    "name_en": "Beverages",
+    "icon": "🥤",
+    "order": 6,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  }
+]

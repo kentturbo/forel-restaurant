@@ -1,0 +1,53 @@
+[
+  {
+    "id": "1751336177009",
+    "createdAt": "2025-07-01T02:16:17.009Z",
+    "orderNumber": "ORD177009",
+    "name": "пенис детров",
+    "phone": "+992148821833",
+    "address": "ул. пушкина дом колотушкина",
+    "items": [
+      {
+        "id": "1",
+        "name": "Форель на гриле",
+        "description": "Свежая форель, приготовленная на гриле с травами и лимоном",
+        "price": 250,
+        "category": "fish",
+        "image": "/images/grilled-trout.jpg",
+        "popular": true,
+        "available": true,
+        "quantity": 1
+      },
+      {
+        "id": "2",
+        "name": "Цезарь с курицей",
+        "description": "Классический салат с курицей, сыром пармезан и соусом",
+        "price": 120,
+        "category": "salads",
+        "image": "/images/caesar-salad.jpg",
+        "popular": false,
+        "available": true,
+        "quantity": 1
+      },
+      {
+        "id": "5",
+        "name": "Греческий салат",
+        "description": "Свежие овощи, оливки, сыр фета и оливковое масло",
+        "price": 100,
+        "category": "salads",
+        "image": "/images/interior-1.jpg",
+        "popular": false,
+        "available": true,
+        "quantity": 1
+      }
+    ],
+    "total": 490,
+    "deliveryFee": 20,
+    "comment": "я хачу пицу я хачу лизать пицу",
+    "status": "delivered",
+    "paymentMethod": "cash",
+    "estimatedDelivery": "2025-07-01T03:01:17.009Z",
+    "updatedAt": "2025-07-01T02:17:33.483Z",
+    "deliveredAt": "2025-07-01T02:17:33.482Z"
+  }
+]

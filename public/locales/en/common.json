@@ -1,0 +1,89 @@
+{
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "delivery": "Delivery",
+    "booking": "Booking",
+    "reviews": "Reviews",
+    "contacts": "Contacts"
+  },
+  "hero": {
+    "title": "Restaurant Forel",
+    "subtitle": "Exquisite cuisine in the heart of Khujand",
+    "book": "Book a table",
+    "viewMenu": "View menu",
+    "order": "Order online"
+  },
+  "menu": {
+    "title": "Our Menu",
+    "categories": {
+      "appetizers": "Appetizers",
+      "salads": "Salads",
+      "soups": "Soups",
+      "main": "Main Courses",
+      "fish": "Fish Dishes",
+      "desserts": "Desserts",
+      "drinks": "Beverages"
+    },
+    "addToCart": "Add to order",
+    "price": "Price",
+    "currency": "TJS"
+  },
+  "booking": {
+    "title": "Book a Table",
+    "form": {
+      "date": "Date",
+      "time": "Time",
+      "guests": "Number of guests",
+      "name": "Your name",
+      "phone": "Phone",
+      "comment": "Comment",
+      "submit": "Submit request"
+    },
+    "success": "Your request has been received! We will contact you shortly.",
+    "error": "An error occurred. Please try again."
+  },
+  "order": {
+    "title": "Checkout",
+    "cart": "Cart",
+    "empty": "Cart is empty",
+    "total": "Total",
+    "form": {
+      "name": "Your name",
+      "phone": "Phone",
+      "address": "Delivery address",
+      "comment": "Order comment",
+      "submit": "Place order"
+    },
+    "success": "Your order has been received! We will contact you for confirmation.",
+    "remove": "Remove"
+  },
+  "reviews": {
+    "title": "Guest Reviews",
+    "write": "Write a review",
+    "form": {
+      "name": "Your name",
+      "rating": "Rating",
+      "comment": "Your review",
+      "submit": "Submit"
+    },
+    "success": "Thank you for your review!"
+  },
+  "contacts": {
+    "title": "Contacts",
+    "address": "Address",
+    "phone": "Phone",
+    "hours": "Working hours",
+    "workHours": "Daily from 10:00 to 23:00",
+    "social": "Follow us"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "developed": "Developed by"
+  },
+  "validation": {
+    "required": "Required field",
+    "phone": "Invalid phone format",
+    "email": "Invalid email format"
+  }
+}
