@@ -16,7 +16,6 @@ Built using **Next.js (React)** for a performant frontend and **Express.js** for
 | **Main Landing Page** (Hero section & Branding) | ![Main Page](screenshots/hero.png) |
 | **Interactive Menu** (Responsive categories & cart integration) | ![Interactive Menu](screenshots/menu.png) |
 | **Table Booking Form** (Validation & guest selector) | ![Table Booking Form](screenshots/booking.png) |
-| **Telegram Notifications** (Instant webhook messages) | ![Telegram Notifications](screenshots/telegram_notif.png) |
 
 ---
 
